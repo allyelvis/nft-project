@@ -1,0 +1,5 @@
+{
+  "name": "MyNFT",
+  "description": "A unique NFT stored on Ethereum.",
+  "image": "https://cloudflare-ipfs.com/ipfs/YOUR_IPFS_HASH"
+}
